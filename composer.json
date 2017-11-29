@@ -1,16 +1,12 @@
 {
-    "name": "yoeunes/membership",
+    "name": "sarabarkaoui/membership",
     "description": "Applicaton to create membership cards.",
-    "keywords": ["membership", "yoeunes", "yoeunes", "khoubza", "association"],
+    "keywords": ["membership", "association"],
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
-        "source": "https://github.com/laravel-zero/laravel-zero"
-    },
     "authors": [
         {
-            "name": "Younes Khoubza",
-            "email": "younes.khoubza@gmail.com"
+            "name": "sara barkaoui",
+            "email": "barkaouisara0@gmail.com"
         }
     ],
     "require": {
